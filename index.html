@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="backend.js"></script>
+</head>
+<body>
+    <header>
+        <h2 id="logo">My Weather</h2>
+        <div class="cityName">
+            <input type="text" id="cityName" placeholder="Search">
+            <button id="search"></button>
+        </div>
+    </header>
+    <video id="video-background" autoplay loop muted>
+        <source src="backgrounds/default.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    </div> 
+    <div class="content" id="content">
+        <div class="left" id="left">
+            <h3 id="coordinates&time">Unknown</h3>
+            <h2 id="location">Unknown</h2>
+            <div class="tempicon">
+                <h1 id="temp">0</h1>
+                <sup class="superscript"><select id="selector" class="selector">
+                    <option value="C">°C</option>
+                    <option value="F">°F</option>
+                </select></sup>
+                <img src ='icons/sun.png' alt="Weather Icon" id="icon">
+            </div>
+        </div>
+        <div class="right" id="right">
+            <div class="top">
+                <p id="description">Description</p>
+                <hr>
+                <div id="hourly-forecast" class="hourly-forecast"></div>
+            </div>
+            <div class="bottom">
+                <p>5-day Forecast</p>
+                <hr>
+                <div class="days" id="days">
+                    <div class="forecast" id="daydiv"></div>
+                    <div class="forecast" id="iconsdiv"></div>
+                    <div class="forecast" id="mintempdiv"></div>
+                    <div class="forecast" id="range"></div>
+                    <div class="forecast" id="maxtempdiv"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
