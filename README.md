@@ -1,1 +1,12 @@
-# Weather-Web-Application
+![Screenshot (137)](https://github.com/janaghoniem/Weather-Web-Application/assets/121458456/7c474d05-c087-4583-82a2-c5a6660b8342)
+![Screenshot (138)](https://github.com/janaghoniem/Weather-Web-Application/assets/121458456/3118b623-a71c-4186-a735-19c51b9fce1f)
+![Screenshot (139)](https://github.com/janaghoniem/Weather-Web-Application/assets/121458456/2178ee0e-2eb0-49d0-8395-8c513a8e703a)
+![Screenshot (140)](https://github.com/janaghoniem/Weather-Web-Application/assets/121458456/0af37912-0110-4e0a-a5ee-1808c38d6c0b)
+![Screenshot (141)](https://github.com/janaghoniem/Weather-Web-Application/assets/121458456/66fd4df1-1a69-4fc1-8ca2-ac61ce53f543)
+![Screenshot (142)](https://github.com/janaghoniem/Weather-Web-Application/assets/121458456/90a9dd36-a660-4653-a5eb-f0466d4c7371)
+![Screenshot (143)](https://github.com/janaghoniem/Weather-Web-Application/assets/121458456/68968aa6-aed3-4529-8319-11940cfcc7d9)
+![Screenshot (144)](https://github.com/janaghoniem/Weather-Web-Application/assets/121458456/71fe5797-d965-4836-9a53-047735b86637)
+![Screenshot (145)](https://github.com/janaghoniem/Weather-Web-Application/assets/121458456/03791711-bfcf-4253-aa80-edbe0ad77eec)
+![Screenshot (146)](https://github.com/janaghoniem/Weather-Web-Application/assets/121458456/90fd57ec-6ccd-4765-82d1-b454318999bb)
+![Screenshot (147)](https://github.com/janaghoniem/Weather-Web-Application/assets/121458456/7632d697-d592-4ada-a87d-49dc1bd7bfb4)
+![Screenshot (161)](https://github.com/janaghoniem/Weather-Web-Application/assets/121458456/8dda71b7-110c-4fff-9be5-a5a8745ceaa2)
